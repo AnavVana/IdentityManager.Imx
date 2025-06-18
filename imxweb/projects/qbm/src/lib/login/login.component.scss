@@ -84,11 +84,10 @@ $inputWidth: calc(40vw + 2px);
   button {
     margin: 0 10px;
     color: $CCC_Main;
-  }
-
-  button:hover {
-    background-color: $CCC_Main;
-    color: #fff;
+      &:hover {
+        background-color: $CCC_Main;
+        color: $white;
+      }
   }
 }
 

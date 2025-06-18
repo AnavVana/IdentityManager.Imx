@@ -116,3 +116,311 @@ imx-data-explorer-accounts {
   }
 }
 
+
+
+// ------------------
+
+
+div.imx-loginPage, .splash-screen-container {
+    background-color: $color-orange-60 !important;
+}
+ 
+button.imx-button:hover, button.imx-button:focus {
+    background-color: $color-orange-60;
+}
+ 
+body {
+    .mat-progress-spinner circle, .mat-spinner circle {
+        stroke: $color-orange-60;
+    }
+}
+
+header.eui-masthead, .mat-toolbar-row {
+    background-color: $color-orange-60!important;
+}
+
+body .mat-button.mat-primary, body .mat-icon-button.mat-primary, body .mat-stroked-button.mat-primary {
+    color: $color-orange-60;
+}
+
+#mat-tab-content-0-2 > div > imx-password-questions > mat-card > div.imx-password-questions-empty-actions > button {
+    background-color: $color-orange-60;
+}
+
+body > imx-root > div > div > imx-itshop-pattern > div > div.imx-button-bar > button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary {
+    background-color: $color-orange-60;
+}
+
+body > imx-root > div > div > imx-shopping-cart > imx-shopping-cart-empty > mat-card > button.mat-focus-indicator.mat-raised-button.mat-button-base.mat-primary {
+    background-color: $color-orange-60;
+}
+
+#cdk-step-label-0-0 > div.mat-step-icon.mat-step-icon-state-edit.mat-step-icon-selected > div > mat-icon,
+#cdk-step-label-0-0 > div.mat-step-icon.mat-step-icon-state-edit.mat-step-icon-selected {
+    background-color: $color-orange-60;
+
+}
+
+body > imx-root > div > div > imx-my-responsibilities-view > imx-side-navigation-view > div > mat-sidenav-container > mat-sidenav > div > div > div.snavigation-side-content > div.mat-tooltip-trigger.snavigation-item.snavigation-item--selected.ng-star-inserted {
+    background-color: $color-orange-60!important;
+}
+
+
+// http://localhost:4200/#/myresponsibilities/devices
+
+.data-explorer .data-explorer-card-header {
+    border: 1px solid $color-orange-40!important;
+}
+
+.data-explorer .data-explorer-card-header .data-explorer-card-header-bg {
+    background-color: $color-orange-20!important;
+}
+
+.data-explorer .data-explorer-card-header .data-explorer-card-header-bg .eui-icon {
+    color: $color-orange-40!important;
+}
+
+body .mat-flat-button.mat-primary, body .mat-raised-button.mat-primary, body .mat-fab.mat-primary, body .mat-mini-fab.mat-primary {
+    background-color: $color-orange-60;
+}
+
+
+// http://localhost:4200/#/profile
+.eui-sidesheet .mat-toolbar {
+    background-color: $color-orange-80!important;
+}
+
+.eui-alert.eui-alert-type--info.eui-alert-colored {
+    background-color: $color-orange-20!important;
+    border: 1px solid $color-orange-10!important;
+}
+
+.eui-alert.eui-alert-type--info .eui-alert-icon {
+    color: $color-orange-60!important;
+}
+
+.mat-expansion-panel-header:hover {
+    background-color: $color-orange-10!important;
+}
+
+.mat-expansion-indicator:after {
+    color:  $color-orange-60!important;
+}
+
+.mat-tab-nav-bar.mat-primary .mat-ink-bar:active {
+    border-bottom: 1px solid $color-orange-60!important;
+}
+
+#form > imx-cdr-editor > div > div > imx-info-button > button > span.mat-button-wrapper{
+    color: $color-orange-60!important;
+}
+#form > imx-cdr-editor > div > div > imx-info-button > button > span.mat-button-wrapper:hover {
+    color: $color-orange-40!important;
+}
+
+body .mat-form-field-appearance-outline .mat-form-field-outline-thick:active {
+    background-color: $color-orange-60!important;
+}
+
+.imx-data-table-row-highlighted {
+    background-color: $color-orange-10!important;
+}
+
+body > imx-root > div > div > imx-addressbook > mat-card > div > imx-data-table > table > tbody > tr:hover {
+    background-color: $color-orange-10!important;
+}
+
+body > imx-root > div > div > imx-addressbook > mat-card > imx-data-source-toolbar > div > div.imx-data-source-toolbar > div.imx-data-source-toolbar-middle > eui-search > mat-form-field > div > div.mat-form-field-flex.ng-tns-c53-11 > div.mat-form-field-prefix.ng-tns-c53-11.ng-star-inserted > eui-icon {
+    color: $color-orange-60!important;
+}
+
+.eui-light-theme .expression-container-header {
+    background-color: #dfe4e6;
+    color: $color-orange-60!important;
+}
+
+.eui-light-theme .expression-container-header:hover {
+    background-color: $color-orange-60!important;
+    color: #dfe4e6!important;
+}
+
+body .mat-primary .mat-option.mat-selected:not(.mat-option-disabled) {
+    color: $color-orange-60!important;
+}
+
+body .mat-select-arrow {
+    color:  $color-orange-60!important;
+}
+
+.title-container .link-button {
+    color:  $color-orange-60!important;
+}
+
+#cdk-overlay-15 > eui-sidesheet > div.eui-sidesheet.ng-tns-c322-45.ng-trigger.ng-trigger-slideContent > div > imx-data-export > div.tool-bar.eui-sidesheet-actions.ng-star-inserted > div > button:hover {
+    color:  $color-orange-10!important;
+}
+
+imx-data-source-toolbar .eui-search-icon {
+    color:  $color-orange-60!important;
+}
+
+body .mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick {
+    color:  $color-orange-60!important;
+}
+
+body > div:nth-child(9) > div:nth-child(2) > div:nth-child(1) > mat-dialog-container:nth-child(2) > imx-about:nth-child(1) > mat-dialog-content:nth-child(1) > mat-tab-group:nth-child(1) > div:nth-child(2) > mat-tab-body:nth-child(1) > div:nth-child(1) > a:nth-child(1) > eui-logo:nth-child(1) > svg:nth-child(1) > path:nth-child(9) {
+    color: $color-orange-60!important;
+}
+
+.snavigation-side-content {
+    background-color: $color-orange-10!important;
+    border:  1px solid $color-orange-20!important;
+}
+
+.eui-icon,
+img.image-category.ng-star-inserted
+ {
+    color: $color-orange-60!important;
+}
+
+.mat-tree-node.ng-tns-c470-9.mat-tree-node--selected,
+.imx-product-bundle-list-header-text {
+    color: $color-orange-60!important;
+}
+
+body > imx-root > div > div > imx-new-request > imx-new-request-content > imx-new-request-product-bundle > div > mat-card.mat-card.mat-focus-indicator.imx-card-container.imx-bundle-container > imx-product-bundle-list > mat-card {
+    border-color: $color-orange-20;
+}
+body > imx-root > div > div > imx-new-request > imx-new-request-content > imx-new-request-product-bundle > div > mat-card.mat-card.mat-focus-indicator.imx-card-container.imx-bundle-container > imx-product-bundle-list > mat-card > imx-data-table {
+    background-color: $color-orange-10!important;
+}
+
+body .mat-chip.mat-standard-chip.mat-chip-selected.mat-primary {
+    background-color: $color-orange-60!important;
+}
+
+.mat-ink-bar {
+    background-color: $color-orange-60!important;
+}
+
+.mat-form-field-underline.ng-tns-c53-105.ng-star-inserted:focus {
+    background-color: $color-orange-60!important;
+}
+
+#mat-tab-content-0-2 > div > imx-password-questions > mat-card > imx-data-table > table > tbody > tr:hover {
+    background-color: $color-orange-10!important;
+}
+
+[id^="mat-form-field-label-"] > mat-label {
+    color: $color-orange-60!important;
+}
+
+body .mat-stroked-button.mat-primary:hover {
+    background-color: $color-orange-10!important;
+}
+
+.expression-container:hover {
+    color: $color-orange-60!important;
+    border: 1px solid $color-orange-60!important;
+
+    #cdk-overlay-3 > eui-sidesheet > div.eui-sidesheet.ng-tns-c322-14.ng-trigger.ng-trigger-slideContent > div > imx-filter-wizard > div.imx-sidesheet-content.eui-sidesheet-content > mat-card > imx-sqlwizard > mat-list > li:hover {
+        border: 1px solid $color-orange-60!important;
+        color: $color-orange-60!important;
+    }
+}
+
+#cdk-overlay-2 > eui-sidesheet > div.eui-sidesheet.ng-tns-c322-14.ng-trigger.ng-trigger-slideContent > div > imx-filter-wizard > div.imx-sidesheet-content.eui-sidesheet-content > mat-card > imx-sqlwizard > mat-list > li:hover > .expression-container-header {
+    background-color: $color-orange-60!important;
+    color: $white!important;
+}
+
+.eui-badge .eui-badge-color--primary {
+    background-color: $color-orange-60!important;
+}
+
+body > imx-root > div > div > ng-component > imx-request-table > mat-card > imx-data-table > table > tbody > tr:hover {
+    background-color: $color-orange-10!important;
+}
+
+body .mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-bar {
+    background-color: $color-orange-40;
+}
+#mat-slide-toggle-1 > label > span.mat-slide-toggle-bar > span > span.mat-slide-toggle-thumb {
+    background-color: $color-orange-60;
+}
+
+.eui-top-navigation-desktop .eui-top-navigation .mat-button.eui-top-navigation-item-active {
+    border-bottom: 2px solid $color-orange-60!important;
+}
+
+.mat-step-icon-selected, .mat-step-icon-state-done {
+    background-color: $color-orange-60!important;
+}
+
+body > imx-root > div > div > ng-component > mat-card > imx-attestation-history > imx-data-table > table > tbody > tr:hover {
+    background-color: $color-orange-10!important;
+}
+body > imx-root > div > div > ng-component > mat-card > imx-attestation-history > imx-data-table > table > tbody > tr > td.mat-cell.cdk-cell.cdk-column-actions.mat-column-actions.ng-star-inserted > button:hover {
+    background-color: $color-orange-20!important;
+}
+
+table > tr:hover {
+    background-color: $color-orange-10!important;
+}
+body > imx-root > div > div > ng-component > mat-card > imx-attestation-history > imx-data-table > div > div > table > tbody > tr > td > div > imx-data-table > table > tbody > tr:hover,
+body > imx-root > div > div > imx-new-request > imx-new-request-content > imx-new-request-product > div > mat-card > imx-data-table > table > tbody > tr:hover,
+body > imx-root > div > div > imx-new-request > imx-new-request-content > imx-new-request-peer-group > mat-card > imx-data-table > table > tbody > tr:hover {
+    background-color: $color-orange-10!important;
+} 
+.mat-slide-toggle.mat-primary.mat-checked .mat-slide-toggle-thumb {
+    background-color: $color-orange-60!important;
+}
+
+body > imx-root > div > div > ng-component > mat-card > imx-attestation-history > imx-data-table > table > tbody > tr > td.mat-cell.cdk-cell.cdk-column-actions.mat-column-actions.ng-star-inserted > button {
+    background-color: $color-orange-20!important;
+}
+
+body .mat-button, body .mat-icon-button, body .mat-stroked-button {
+    color: $color-orange-60!important;
+}
+
+.imx-card:hover {
+    border: 1px solid $color-orange-10!important;
+}
+body > imx-root > div > div > imx-new-request > imx-new-request-header > div > imx-new-request-recipients > mat-card > div > span {
+    color: $color-orange-60!important;
+}
+
+body .mat-progress-bar-fill::after {
+    background-color: $color-orange-60!important;
+}
+
+body .mat-progress-bar-buffer {
+    background-color: $color-orange-20!important;
+}
+body > imx-root > div > div > imx-start > div:nth-child(2) > imx-badge-tile > imx-tile > section > mat-card > div > div{
+    background-color: $color-orange-20!important;
+    color: $color-orange-60!important;
+}
+
+header > div > mat-toolbar > mat-toolbar-row > span.imx-masthead--controls > button.mat-focus-indicator.mat-menu-trigger.imx-masthead-user-button.mat-button.mat-button-base.ng-star-inserted > span.mat-button-wrapper > .eui-icon,
+header > div > mat-toolbar > mat-toolbar-row > span.imx-masthead--controls > button.mat-focus-indicator.mat-menu-trigger.imx-masthead--icon-button.mat-button.mat-button-base.ng-star-inserted {
+    color: $white!important;
+}
+
+body > imx-root > div > imx-mast-head > eui-masthead > header > div > mat-toolbar > mat-toolbar-row > span.imx-masthead--controls > button.mat-focus-indicator.mat-menu-trigger.imx-masthead-user-button.mat-button.mat-button-base.ng-star-inserted > span.mat-button-wrapper > span {
+    color: $white!important;
+}
+
+body > imx-root > div > imx-mast-head > eui-masthead > header > div > mat-toolbar > mat-toolbar-row > span.imx-masthead--controls > button.mat-focus-indicator.mat-menu-trigger.imx-masthead--icon-button.mat-button.mat-button-base.ng-star-inserted > span.mat-button-wrapper > eui-icon {
+    color: $white!important;
+}
+
+body > imx-root > div > div > imx-start > div:nth-child(2) > imx-badge-tile > imx-tile > section > mat-card > div > button:hover {
+    background-color: $color-orange-10;
+}
+
+.go-to-cart, .eui-badge .eui-badge-content, li.expression-container:hover.ng-star-inserted div.expression-container-header {
+        background-color: $color-orange-60!important;
+        color: $white!important;
+}
